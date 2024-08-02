@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![Anurag's GitHub stats](https://github-readme-stats-me-z52j.vercel.app/api?username=croro613&count_private=true)
+[![Top Langs](https://github-readme-stats-me-z52j.vercel.app/api/top-langs/?username=croro613)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **croro613/croro613** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
