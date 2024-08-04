@@ -1,7 +1,11 @@
-## Hi there 👋
+Hi there 👋
+<p align="left"> 
+  <img alt="github stats" height="150px" src="https://github-readme-stats-me-z52j.vercel.app/api?username=croro613&layout=compact&show_icons=true&theme=onedark" />
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats-me-z52j.vercel.app/api/top-langs/?username=croro613&layout=compact&show_icons=true&theme=onedark&hide=CMake,javascript" />
+</p>
 
-![Anurag's GitHub stats](https://github-readme-stats-me-z52j.vercel.app/api?username=croro613&count_private=true)
-[![Top Langs](https://github-readme-stats-me-z52j.vercel.app/api/top-langs/?username=croro613)](https://github.com/anuraghazra/github-readme-stats)
+[![My Qiita posts](https://qiita-badge.apiapi.app/s/Freegon13/posts.svg)](http://qiita.com/Freegon13)
+
 <!--
 **croro613/croro613** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
