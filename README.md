@@ -4,7 +4,7 @@ Hi there 👋
   <img alt="Top Langs" height="150px" src="https://github-readme-stats-me-z52j.vercel.app/api/top-langs/?username=croro613&layout=compact&show_icons=true&theme=onedark&hide=CMake,javascript" />
 </p>
 
-[![My Qiita posts](https://qiita-badge.apiapi.app/s/Freegon13/posts.svg)](http://qiita.com/Freegon13)
+<!--[![My Qiita posts](https://qiita-badge.apiapi.app/s/Freegon13/posts.svg)](http://qiita.com/Freegon13) -->
 
 <!--
 **croro613/croro613** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
